@@ -6,6 +6,7 @@
 .header__container, .header__nav {
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .header__list {
     display: none;
